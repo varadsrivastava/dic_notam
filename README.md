@@ -1,5 +1,5 @@
 # Notice to Air-Men (NOTAM) 
-This was made as collaboration with the Design Innovation Centre (IIT-BHU).
+This was made in collaboration with the Design Innovation Centre (IIT-BHU).
 
 ## Problem Statement
 A NOTAM is a notice that is originated and disseminated to the users whenever the information to be distributed is of a temporary nature and of short duration or when operationally significant permanent changes, or temporary changes of long duration are made at short notice, except for extensive text and/or graphics. However, at times it may be difficult to visualize the situation through the text only message.
